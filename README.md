@@ -1,6 +1,9 @@
 # MTGDatabse
 
-Carddatabase(_Cardname_, _Set_, Manacost, Cardtype, Power, Toughness)
-Cardprice(_Cardname_, _Set_, EUR)
-Collection(_Cardname_, _Set_, Amount, User)
-Userbase(_User_)
+Carddatabase(*Cardname*, *Set*, Manacost, Cardtype, Power, Toughness)
+
+Cardprice(*Cardname*, *Set*, *Date*, EUR)
+
+Collection(*Cardname*, *Set*, Amount, User)
+
+Userbase(*User*)
